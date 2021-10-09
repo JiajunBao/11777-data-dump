@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vision embeddings",
+      "tensorShape": [
+        200,
+        85
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/vision.embed.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/vision.label.txt"
+    }
+  ]
+}
