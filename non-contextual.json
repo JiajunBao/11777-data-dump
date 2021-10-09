@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "glove embeddings",
+      "tensorShape": [
+        200,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/glove.embed.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/glove.label.txt"
+    }
+  ]
+}
