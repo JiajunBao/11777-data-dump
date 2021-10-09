@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "roberta embeddings",
+      "tensorShape": [
+        200,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/roberta.embed.txt",
+      "metadataPath": "https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/roberta.label.txt"
+    }
+  ]
+}
