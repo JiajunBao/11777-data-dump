@@ -1,0 +1,9 @@
+configurations:
+https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/vision.json
+https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/non-contextual.json
+https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/contextual.json
+
+projectors:
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/vision.json
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/non-contextual.json
+https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/JiajunBao/11777-data-dump/master/contextual.json
