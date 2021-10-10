@@ -1,200 +1,200 @@
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-1	hateful
-1	hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
-1	hateful
-1	hateful
-0	not hateful
-1	hateful
-0	not hateful
-0	not hateful
-0	not hateful
-0	not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+hateful
+hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+hateful
+hateful
+not hateful
+not hateful
+not hateful
+hateful
+hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
+hateful
+hateful
+not hateful
+hateful
+not hateful
+not hateful
+not hateful
+not hateful
